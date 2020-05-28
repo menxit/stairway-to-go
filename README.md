@@ -94,3 +94,5 @@ Se si vuole un output verboso:
 go test -v ./path/to/tests
 ```
 
+## Tool utili
+- [json to go](https://mholt.github.io/json-to-go/)
